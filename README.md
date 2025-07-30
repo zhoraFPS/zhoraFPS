@@ -16,13 +16,37 @@
 
 ## 🎯 About me
 
-<img align="right" alt="Discord Status" width="300" src="https://lanyard.cnrad.dev/api/827927735132880896">
-
-<div align="right" style="margin-top: 10px;">
+<div align="right">
+  <img alt="Discord Status" width="300" src="https://lanyard.cnrad.dev/api/827927735132880896">
   
-  **📚 Currently Learning:**
+  <br><br>
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&theme=dark" width="200"/>
+  <strong>📚 Currently Learning:</strong>
+  
+  <br><br>
+  
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" />
+  <strong>HTML</strong>
+  
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
+  <strong>CSS</strong>
+  
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+  <strong>JavaScript</strong>
+  
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+  <strong>Git</strong>
+  
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+  <strong>VS Code</strong>
   
 </div>
 
