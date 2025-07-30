@@ -151,7 +151,7 @@ const beginner = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhoraFPS&repo=first-project&theme=react&border_radius=10)](https://github.com/zhoraFPS/zhora-dealership)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhoraFPS&repo=zhora-dealership&theme=react&border_radius=10)](https://github.com/zhoraFPS/zhora-dealership)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhoraFPS&repo=javascript-practice&theme=react&border_radius=10)](https://github.com/zhoraFPS/javascript-practice)
 
 </div>
