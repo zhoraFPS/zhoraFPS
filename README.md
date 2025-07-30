@@ -1,14 +1,14 @@
-# Hey! i´m zhora 👨‍💻
+# Hey! I'm zhora 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🌱+Lerne+das+Programmieren;💡+Jeden+Tag+etwas+Neues;🚀+Auf+dem+Weg+zum+Developer;🎯+Learning+by+Doing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🌱+Learning+Programming;💡+Something+New+Every+Day;🚀+On+My+Way+to+Developer;🎯+Learning+by+Doing" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=DEIN-USERNAME&color=brightgreen&style=for-the-badge)
-  ![GitHub followers](https://img.shields.io/github/followers/DEIN-USERNAME?color=blue&style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/github/stars/DEIN-USERNAME?color=yellow&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=zhoraFPS&color=brightgreen&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/zhoraFPS?color=blue&style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/zhoraFPS?color=yellow&style=for-the-badge)
   
 </div>
 
@@ -29,21 +29,21 @@ const beginner = {
         goal: "Full-Stack Developer",
     },
     
-    currentstatus: [
+    currentlyLearning: [
         "HTML & CSS Basics",
         "JavaScript Basics", 
         "Git & GitHub",
         "Responsive Design"
     ],
     
-    upnext: [
-        "React lernen",
-        "Node.js verstehen", 
-        "Erste echte Projekte bauen"
+    upNext: [
+        "Learning React",
+        "Understanding Node.js", 
+        "Building real projects"
     ],
     
-    hobbies: ["Gaming 🎮", "Musik 🎵", "Coding 💻"],
-    lieblingsEditor: "VS Code"
+    hobbies: ["Gaming 🎮", "Music 🎵", "Coding 💻"],
+    favoriteEditor: "VS Code"
 };
 ```
 
@@ -53,7 +53,7 @@ const beginner = {
 
 <div align="center">
 
-### 📚 What am i learning?
+### 📚 What am I learning?
 
 <table>
 <tr>
@@ -108,61 +108,61 @@ const beginner = {
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USERNAME&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=zhoraFPS&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoraFPS&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DEIN-USERNAME&theme=react&border_radius=10" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zhoraFPS&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
-## 🐍 Das Snake Game aus meinen Commits!
+## 🐍 Snake Game from my Commits!
 
 <div align="center">
   
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhoraFPS/zhoraFPS/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhoraFPS/zhoraFPS/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhoraFPS/zhoraFPS/output/github-contribution-grid-snake.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhoraFPS/zhoraFPS/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhoraFPS/zhoraFPS/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhoraFPS/zhoraFPS/output/github-contribution-grid-snake.svg">
+  </picture>
   
 </div>
 
-## 🏆 My small Goals
+## 🏆 My Small Goals
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEIN-USERNAME&theme=react&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zhoraFPS&theme=react&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
 </div>
 
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEIN-USERNAME&bg_color=20232a&color=61dafb&line=61dafb&point=ffeb95&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhoraFPS&bg_color=20232a&color=61dafb&line=61dafb&point=ffeb95&area=true&hide_border=true" />
 </div>
 
-## 🎯 My Goals
+## 🎯 My Goals 2025
 
 <div align="left">
 
-- [ ] 🌐 **Scripts** online stellen
-- [ ] ⚛️ **React Grundlagen** komplett durcharbeiten
-- [ ] 🤝 **Open Source Projekt** beitragen
-- [ ] 💼 **Portfolio Website** mit echten Projekten
+- [ ] 🌐 **Put scripts** online
+- [ ] ⚛️ **Complete React basics**
+- [ ] 🤝 **Contribute to Open Source project**
+- [ ] 💼 **Portfolio Website** with real projects
+- [ ] 🎮 **Build a JavaScript game**
+- [ ] 📚 **Solve coding challenges** regularly
 
 </div>
 
-## 🔥 Meine Lernprojekte
+## 🔥 My Learning Projects
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=mein-erstes-projekt&theme=react&border_radius=10)](https://github.com/DEIN-USERNAME/mein-erstes-projekt)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=javascript-uebungen&theme=react&border_radius=10)](https://github.com/DEIN-USERNAME/javascript-uebungen)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhoraFPS&repo=first-project&theme=react&border_radius=10)](https://github.com/zhoraFPS/first-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhoraFPS&repo=javascript-practice&theme=react&border_radius=10)](https://github.com/zhoraFPS/javascript-practice)
 
 </div>
 
-
-</div>
-
+## 📫 Let's Connect!
 
 <div align="center">
   
@@ -170,10 +170,11 @@ const beginner = {
   
   <br>
   
-  **Let´s connect 🤝**
+  **Let's connect! 🤝**
   
 </div>
 
+---
 
 <div align="center">
   
@@ -181,5 +182,6 @@ const beginner = {
   
   *"Every expert was once a beginner. Every pro was once an amateur."*
   
+  **Let's code the future together! 🚀**
   
 </div>
