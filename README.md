@@ -71,8 +71,8 @@ const beginner = {
 <br><strong>JavaScript</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
+<img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Git" />
+<br><strong>LUA</strong>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
@@ -99,7 +99,7 @@ const beginner = {
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><strong>MongoDB</strong>
+<br><strong>MariaDB</strong>
 </td>
 </tr>
 </table>
