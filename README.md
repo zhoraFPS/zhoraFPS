@@ -23,6 +23,13 @@ const beginner = {
     name: "zhora",
     location: "Germany 🇩🇪",
     status: "Student",
+
+    bio: [
+        "Currently working on Fivem Scripts!",
+        "Dynamic Vehicle Shops",
+        "Giveaway Script",
+        "Discord Bots",
+    ],
     
     roadmap: {
         start: "2025",
