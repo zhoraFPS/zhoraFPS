@@ -147,24 +147,11 @@ const beginner = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhoraFPS&bg_color=20232a&color=61dafb&line=61dafb&point=ffeb95&area=true&hide_border=true" />
 </div>
 
-## 🎯 My Goals 2025
-
-<div align="left">
-
-- [ ] 🌐 **Put scripts** online
-- [ ] ⚛️ **Complete React basics**
-- [ ] 🤝 **Contribute to Open Source project**
-- [ ] 💼 **Portfolio Website** with real projects
-- [ ] 🎮 **Build a JavaScript game**
-- [ ] 📚 **Solve coding challenges** regularly
-
-</div>
-
 ## 🔥 My Learning Projects
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhoraFPS&repo=first-project&theme=react&border_radius=10)](https://github.com/zhoraFPS/first-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhoraFPS&repo=first-project&theme=react&border_radius=10)](https://github.com/zhoraFPS/zhora-dealership)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhoraFPS&repo=javascript-practice&theme=react&border_radius=10)](https://github.com/zhoraFPS/javascript-practice)
 
 </div>
