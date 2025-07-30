@@ -16,7 +16,11 @@
 
 ## 🎯 About me
 
-
+<div align="right">
+  <a href="https://discord.com/users/827927735132880896">
+    <img src="https://lanyard.cnrad.dev/api/827927735132880896?theme=dark&bg=a&animated=true&hideDiscrim=false&borderRadius=30px" alt="Discord Status" width="300">
+  </a>
+</div>
 
 ```javascript
 const beginner = {
@@ -163,23 +167,9 @@ const beginner = {
 
 </div>
 
-## 📫 Let's Connect!
-
-<div align="center">
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/827927735132880896)](https://discord.com/users/827927735132880896)
-  
-  <br>
-  
-  **Let's connect! 🤝**
-  
-</div>
-
 ---
 
 <div align="center">
-  
-  
   
   *"Every expert was once a beginner. Every pro was once an amateur."*
   
