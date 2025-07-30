@@ -75,6 +75,10 @@ const beginner = {
 <br><strong>LUA</strong>
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="VS Code" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
 <br><strong>VS Code</strong>
 </td>
@@ -98,8 +102,8 @@ const beginner = {
 <br><strong>Python</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><strong>MariaDB</strong>
+<img src="https://skillicons.dev/icons?i=discordjs" width="48" height="48" alt="MongoDB" />
+<br><strong>DiscordJS</strong>
 </td>
 </tr>
 </table>
