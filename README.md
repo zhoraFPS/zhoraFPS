@@ -18,6 +18,14 @@
 
 <img align="right" alt="Discord Status" width="300" src="https://lanyard.cnrad.dev/api/827927735132880896">
 
+<div align="right" style="margin-top: 10px;">
+  
+  **📚 Currently Learning:**
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&theme=dark" width="200"/>
+  
+</div>
+
 ```javascript
 const beginner = {
     name: "zhora",
@@ -53,33 +61,6 @@ const beginner = {
 ## 🚀 RoadMap
 
 <div align="center">
-
-### 📚 What am I learning?
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br><strong>HTML</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br><strong>CSS</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-</tr>
-</table>
 
 ### 🎯 Up Next
 
