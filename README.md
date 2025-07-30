@@ -16,11 +16,7 @@
 
 ## 🎯 About me
 
-<div align="right">
-  <a href="https://discord.com/users/827927735132880896">
-    <img src="https://lanyard.cnrad.dev/api/827927735132880896?theme=dark&bg=a&animated=true&hideDiscrim=false&borderRadius=30px" alt="Discord Status" width="300">
-  </a>
-</div>
+<img align="right" alt="Discord Status" width="300" src="https://lanyard.cnrad.dev/api/827927735132880896">
 
 ```javascript
 const beginner = {
