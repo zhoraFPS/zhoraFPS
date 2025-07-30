@@ -42,7 +42,8 @@ const beginner = {
         "Building real projects"
     ],
     
-    hobbies: ["Gaming 🎮", "Music 🎵", "Coding 💻"],
+    hobbies: ["Valorant", "Music", "Coding 💻"],
+    rank: "Immortal ♦️",
     favoriteEditor: "VS Code"
 };
 ```
