@@ -16,14 +16,10 @@
 
 ## 🎯 About me
 
-<img align="right" alt="Discord Status" width="300" src="https://lanyard.cnrad.dev/api/827927735132880896">
-
-<div align="right" style="margin-top: 10px;">
-  
-  **📚 Currently Learning:**
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&theme=dark" width="200"/>
-  
+<div align="right">
+  <a href="https://discord.com/users/827927735132880896">
+    <img src="https://lanyard.cnrad.dev/api/827927735132880896?theme=dark&bg=a&animated=true&hideDiscrim=false&borderRadius=30px" alt="Discord Status" width="300">
+  </a>
 </div>
 
 ```javascript
