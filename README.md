@@ -96,11 +96,6 @@ const beginner = {
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
 <br><strong>Node.js</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
-</td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=discordjs" width="48" height="48" alt="MongoDB" />
 <br><strong>DiscordJS</strong>
