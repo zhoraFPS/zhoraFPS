@@ -167,7 +167,7 @@ const beginner = {
 
 <div align="center">
   
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zhorafps)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/827927735132880896)](https://discord.com/users/827927735132880896)
   
   <br>
   
@@ -179,7 +179,7 @@ const beginner = {
 
 <div align="center">
   
-  ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+  
   
   *"Every expert was once a beginner. Every pro was once an amateur."*
   
