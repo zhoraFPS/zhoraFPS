@@ -123,7 +123,7 @@ const beginner = {
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zhoraFPS&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
-## 🐍 Snake Game from my Commits!
+## 🐍 Snake
 
 <div align="center">
   
