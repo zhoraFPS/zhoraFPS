@@ -14,54 +14,19 @@
 
 ---
 
-## 🎯 About me
+## Discord
 
-<img align="right" alt="Discord Status" width="300" src="https://lanyard.cnrad.dev/api/827927735132880896">
+<img align="center" alt="Discord Status" width="300" src="https://lanyard.cnrad.dev/api/827927735132880896">
 
-```javascript
-const beginner = {
-    name: "zhora",
-    location: "Germany 🇩🇪",
-    status: "Student",
 
-    bio: [
-        "Currently working on Fivem Scripts!",
-        "Dynamic Vehicle Shops",
-        "Giveaway Script",
-        "Discord Bots",
-    ],
-    
-    roadmap: {
-        start: "2025",
-        goal: "Full-Stack Developer",
-    },
-    
-    currentlyLearning: [
-        "HTML & CSS Basics",
-        "JavaScript Basics", 
-        "Git & GitHub",
-        "Responsive Design"
-    ],
-    
-    upNext: [
-        "Learning React",
-        "Understanding Node.js", 
-        "Building real projects"
-    ],
-    
-    hobbies: ["Valorant", "Music", "Coding 💻"],
-    rank: "Immortal ♦️",
-    favoriteEditor: "VS Code"
-};
-```
 
 <br clear="right"/>
 
-## 🚀 RoadMap
+## RoadMap
 
 <div align="center">
 
-### 📚 What am I learning?
+### What am I learning?
 
 <table>
 <tr>
@@ -92,7 +57,7 @@ const beginner = {
 </tr>
 </table>
 
-### 🎯 Up Next
+### Up Next
 
 <table>
 <tr>
