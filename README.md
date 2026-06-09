@@ -23,7 +23,7 @@
 <br clear="center"/>
 
 
-## 🐍 Snake
+## Snake
 
 <div align="center">
   
@@ -35,33 +35,8 @@
   
 </div>
 
-## 🏆 My Small Goals
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhoraFPS&theme=react&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
-</div>
-
-## 📈 Coding Activity
+## Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhoraFPS&bg_color=20232a&color=61dafb&line=61dafb&point=ffeb95&area=true&hide_border=true" />
-</div>
-
-## 🔥 My Learning Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhoraFPS&repo=zhora_vehicleshop&theme=react&border_radius=10)](https://github.com/zhoraFPS/zhora_vehicleshop)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhoraFPS&repo=discord-insights&theme=react&border_radius=10)](https://github.com/zhoraFPS/discord-insights)
-
-</div>
-
----
-
-<div align="center">
-  
-  *"Every expert was once a beginner. Every pro was once an amateur."*
-  
-  **Let's code the future together! 🚀**
-  
 </div>
