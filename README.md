@@ -1,7 +1,7 @@
-# Hey! I'm zhora 👨‍💻
+# Hey! I'm zyro 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🌱+Learning+Programming;💡+Something+New+Every+Day;🚀+On+My+Way+to+Developer;🎯+Learning+by+Doing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=FIVEM+Scripts;An+Eye+for+Details;Custom+Scripts;DM+me+on+Discord" alt="Typing SVG" />
 </div>
 
 <div align="center">
