@@ -20,73 +20,8 @@
 
 
 
-<br clear="right"/>
+<br clear="center"/>
 
-## RoadMap
-
-<div align="center">
-
-### What am I learning?
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br><strong>HTML</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br><strong>CSS</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Git" />
-<br><strong>LUA</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="VS Code" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-</tr>
-</table>
-
-### Up Next
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><strong>Node.js</strong>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=discordjs" width="48" height="48" alt="MongoDB" />
-<br><strong>DiscordJS</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=zhoraFPS&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoraFPS&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zhoraFPS&theme=react&border_radius=10" alt="streak stats"/>
-</div>
 
 ## 🐍 Snake
 
